@@ -1,0 +1,184 @@
+[
+    {
+        "nome": "Camiseta do gol",
+        "preco": "R$49.90",
+        "imagem": "/img/camiseta.jpg",
+        "categoria": "Camiseta , Camisa",
+        "tamanhos": ["P"]
+    },
+    {
+        "nome": "Tenis Vans",
+        "preco": "R$299.90",
+        "imagem": "/img/tenis.jpg",
+        "categoria": "Tenis",
+        "tamanhos": ["36", "38", "40"]
+    },
+    {
+        "nome": "Tenis Jordan 4 Colorido",
+        "preco": "R$899.90",
+        "imagem": "/img/jordan_colorido.jfif",
+        "categoria": "Tenis",
+        "tamanhos": ["39", "38", "40"]
+    },
+    {
+        "nome": "Tenis Air Jordan",
+        "preco": "R$399.90",
+        "imagem": "/img/AirJordan.jfif",
+        "categoria": "Tenis",
+        "tamanhos": ["36","37","38", "39", "40"]
+    },
+    {
+        "nome": "Tenis Air Jordan Azul",
+        "preco": "R$399.90",
+        "imagem": "/img/jordan.jfif",
+        "categoria": "Tenis",
+        "tamanhos": ["39", "38", "40"]
+    },
+    {
+        "nome": "Tenis Jordan 4 ",
+        "preco": "R$799.90",
+        "imagem": "/img/airjordan 4.jfif",
+        "categoria": "Tenis",
+        "tamanhos": ["39", "38", "40"]
+    },
+    {
+        "nome": "Calça Cargo",
+        "preco": "R$149.90",
+        "imagem": "/img/calca.jpg",
+        "categoria": "Calca",
+        "tamanhos": ["M"]
+    },
+    {
+        "nome": "Camiseta desenhada",
+        "preco": "R$199.99",
+        "imagem": "/img/camiseta_desenho.jpg",
+        "categoria": "Camiseta",
+        "tamanhos": ["G"]
+    },
+    {
+        "nome": "Camiseta Overside",
+        "preco": "R$159.99",
+        "imagem": "/img/camisa_urso.jpg",
+        "categoria": "Camiseta",
+        "tamanhos": ["P", "M"]
+    },
+    
+    {
+        "nome": "Camiseta do gato",
+        "preco": "R$59.90",
+        "imagem": "/img/camisa5.jpg",
+        "categoria": "Camiseta",
+        "tamanhos": ["P", "G"]
+    },
+   
+    {
+        "nome": "Calça Jeans",
+        "preco": "R$149.90",
+        "imagem": "/img/calça4.jpg",
+        "categoria": "Calca",
+        "tamanhos": ["M"]
+    },
+    {
+        "nome": "Camiseta dragão",
+        "preco": "R$199.99",
+        "imagem": "/img/camisa4.jpg",
+        "categoria": "Camiseta",
+        "tamanhos": ["G","P", "M"]
+    },
+    {
+        "nome": "Calça",
+        "preco": "R$159.99",
+        "imagem": "/img/calça2.jpg",
+        "categoria": "Calca",
+        "tamanhos": ["P", "M","G"]
+    },
+    {
+        "nome": "Calça Cargo",
+        "preco": "R$159.99",
+        "imagem": "/img/calça1.jpg",
+        "categoria": "Calca",
+        "tamanhos": ["P", "M"]
+    },
+    {
+        "nome": "Calça bolsos",
+        "preco": "R$159.99",
+        "imagem": "/img/calça3.jpg",
+        "categoria": "Calca",
+        "tamanhos": ["P", "M", "G"]
+    },
+    {
+        "nome": "Jaqueta verde",
+        "preco": "R$159.99",
+        "imagem": "/img/jaqueta1.jpg",
+        "categoria": "Jaqueta",
+        "tamanhos": ["P", "M"]
+    },
+    {
+        "nome": "Jaqueta Jeans",
+        "preco": "R$259.99",
+        "imagem": "/img/jaqueta2.jpg",
+        "categoria": "Jaqueta",
+        "tamanhos": ["P", "M","G"]
+    },
+    {
+        "nome": "Jaqueta de Couro",
+        "preco": "R$399.99",
+        "imagem": "/img/jaqueta3.jpg",
+        "categoria": "Jaqueta",
+        "tamanhos": ["P", "M","G"]
+    },
+    {
+        "nome": "Jaqueta Jeans Azul" ,
+        "preco": "R$159.99",
+        "imagem": "/img/jaqueta4.jpg",
+        "categoria": "Jaqueta",
+        "tamanhos": ["P", "M"]
+    },
+    {
+        "nome": "Jaqueta preta",
+        "preco": "R$159.99",
+        "imagem": "/img/jaqueta5.jpg",
+        "categoria": "Jaqueta",
+        "tamanhos": ["P", "M"]
+    },
+    {
+        "nome": "Moleton Preto com vermelho",
+        "preco": "R$159.99",
+        "imagem": "/img/moletom1.jpg",
+        "categoria": "Moletom",
+        "tamanhos": ["P", "M","G"]
+
+    },
+    {
+        "nome": "Moleton Anime",
+        "preco": "R$229.99",
+        "imagem": "/img/moletom2.jpg",
+        "categoria": "Moletom",
+        "tamanhos": ["P", "M","G"]
+
+    },
+    {
+        "nome": "Moleton Bege",
+        "preco": "R$159.99",
+        "imagem": "/img/moletom3.jpg",
+        "categoria": "Moletom",
+        "tamanhos": ["P", "M","G"]
+
+    },
+    {
+        "nome": "Moleton Desenho",
+        "preco": "R$299.99",
+        "imagem": "/img/moletom4.jpg",
+        "categoria": "Moletom",
+        "tamanhos": ["P", "M","G"]
+
+    },
+    {
+        "nome": "Moleton Marrom",
+        "preco": "R$49.99",
+        "imagem": "/img/moletom5.jpg",
+        "categoria": "Moletom",
+        "tamanhos": ["P", "M","G"]
+
+    }
+]
